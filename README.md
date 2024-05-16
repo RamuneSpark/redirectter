@@ -7,7 +7,7 @@ https://ramunespark.github.io/redirectter/
 
 ## 使い方
 
-1. JavaScript設定を一時的に無効にします。
+1. JavaScript設定を一時的に無効にします（リダイレクトを停止させるため）。
 2. 上記アドレスにアクセスします。
 3. 「JavaScriptヲ　ONニシテクダサイ.」と書かれたページを、Androidホームに追加するなりブックマークするなりします。
 4. JavaScript設定を有効に戻します。
