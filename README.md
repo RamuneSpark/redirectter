@@ -14,4 +14,4 @@ https://ramunespark.github.io/redirectter/
 2. 上記アドレスにアクセスします。
 3. 「JavaScriptヲ　ONニシテクダサイ.」と書かれたページを、Androidホームに追加するなりブックマークするなりします。
 4. JavaScript設定を有効に戻します。
-5. 以後、ホームアイコンやブックマークにアクセスすると、Twitterが開けます。
+5. 以後、作ったアイコンやブックマークにアクセスすると、Twitterが開けます。
